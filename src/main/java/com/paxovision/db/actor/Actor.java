@@ -1,5 +1,5 @@
 package com.paxovision.db.actor;
 
-public interface IActor {
+public interface Actor {
     String getName();
 }
